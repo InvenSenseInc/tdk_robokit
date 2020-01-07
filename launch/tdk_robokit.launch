@@ -1,0 +1,7 @@
+<launch>
+
+  <node name="tdk_robokit" pkg="tdk_robokit" type="tdk_robokit.py" output="screen">
+    <param name="robokit_com_port" value="/dev/ttyUSB0"/>
+  </node>
+
+</launch>
