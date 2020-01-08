@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>tdk_robokit</name>
-  <version>0.0.1</version>
+  <version>0.0.2</version>
   <description>The tdk_robokit package</description>
   <maintainer email="tdk-opensource@invensense.com">TDK-OpenSource</maintainer>
   <author email="tdk-opensource@invensense.com">TDK-OpenSource</author>
